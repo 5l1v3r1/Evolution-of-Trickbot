@@ -1,5 +1,5 @@
 # Evolution-of-Trickbot
-This repository will show config changes and upddates for Trickbot malware. Thanks to @myonlinesecurity blog, @hasherezade and @Vitali for sharing.
+This repository will show config changes and upddates for Trickbot malware. Thanks to @myonlinesecurity blog, @James, @hasherezade and @Vitali for sharing.
 
 Link - https://docs.google.com/spreadsheets/d/1AKWnsTw9_NJLZtzMoMT2h2ZubrGreDNc6RJKFmuNysA/edit?usp=sharing
 
